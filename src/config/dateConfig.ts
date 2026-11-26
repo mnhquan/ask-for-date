@@ -6,13 +6,13 @@ import type { DateInviteConfig } from '../types/invite';
  */
 export const dateConfig: DateInviteConfig = {
   pageTitle: 'Một lời mời nhỏ gửi em',
-  senderName: 'Anh',
-  recipientName: 'Em',
+  senderName: 'Minh Quân',
+  recipientName: 'Linh',
 
   welcome: {
-    greeting: 'Chào em,',
+    greeting: 'Chào Ngọc Linh,',
     note:
-      'Anh biết dạo này cả hai đứa đều bận, nhưng mỗi lần nói chuyện với em đều làm một ngày của anh nhẹ nhàng hơn rất nhiều.\n\n' +
+      'Anh biết dạo này cả hai đứa đều bận, nhưng mỗi lần nói chuyện với em đều làm một ngày của anh nhẹ nhàng hơn rất nhiều. Anh nghĩ mình nên có một buổi hẹn để biết thêm về nhau hơn.\n\n' +
       'Anh có một câu hỏi nhỏ muốn gửi tới em, em bấm tiếp tục để xem nhé.',
     continueLabel: 'Tiếp tục',
   },
